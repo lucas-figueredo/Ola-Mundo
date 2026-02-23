@@ -5,4 +5,4 @@ Repositório criado na aula "criando o primeiro Repositório - "Curso de Git e G
 
 Material do **Curso de Git e GitHub**, disponível no canal do *Youtube*
 
-Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
+Essa linha eu adicionei diretamente no site! ***QUE IMPRESSIONANTE!***
